@@ -3,7 +3,7 @@
 
 ``{name:"Preethi",   
   interests:"Web Development, Data Structures, love building new cool stuff",
-  studying:"3rd sem CSE at PES University"}
+  education:"3rd sem CSE at PES University"}
   ``
 
 ![](https://komarev.com/ghpvc/?username=QubitMatrix)
