@@ -1,9 +1,9 @@
 ## :octocat: Hi there 👋
 #### AboutMe.json: 💻
 
-``{name:"Preethi",   
-  interests:"Web Development, Data Structures, love building new cool stuff",
-  education:"3rd sem CSE at PES University"}
+``{name:"Preethi",
+interests:"Web Development, Data Structures, love building new cool stuff",
+education:"3rd sem CSE at PES University"}
   ``
 
 ![](https://komarev.com/ghpvc/?username=QubitMatrix)
@@ -17,6 +17,8 @@
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QubitMatrix&theme=radical" />
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QubitMatrix&theme=radical" />
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QubitMatrix&theme=radical" />
+
+![github-wrapped](https://user-images.githubusercontent.com/60323193/209573470-32192d3c-3c5b-4a94-9e7b-619922e5f093.png)
 
 <!--
 **QubitMatrix/QubitMatrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
