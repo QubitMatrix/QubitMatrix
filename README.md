@@ -3,7 +3,7 @@
 
 ``{name:"Preethi",
 interests:"Web Development, Data Structures, love building new cool stuff",
-education:"3rd sem CSE at PES University"}
+education:"4th sem CSE at PES University"}
   ``
 
 ![](https://komarev.com/ghpvc/?username=QubitMatrix)
@@ -18,10 +18,11 @@ My portfolio website: https://qubitmatrix.github.io/portfolio
 <img src="https://img.icons8.com/color/48/000000/javascript.png">
 <img src="https://img.icons8.com/color/48/000000/mongodb.png">
 <img src="https://img.icons8.com/color/48/000000/nodejs.png">
-<img src="https://img.icons8.com/color/48/000000/react-native.png"><img src="https://www.swi-prolog.org/icons/favicon.ico" height="50px" width="50px">
+<img src="https://img.icons8.com/color/48/000000/react-native.png">
 ### Some statistics 📊 
 <p><img alt="" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QubitMatrix&theme=radical" />
-<img width="330px" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=QubitMatrix&theme=radical" alt="" />
+<img width="330px" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=QubitMatrix&theme=radical" alt="" />   
+<br/>
 </p>
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QubitMatrix&theme=radical" />
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QubitMatrix&theme=radical" />
