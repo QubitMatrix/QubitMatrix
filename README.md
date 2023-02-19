@@ -28,7 +28,6 @@ My portfolio website: https://qubitmatrix.github.io/portfolio
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=QubitMatrix&theme=radical" />
 <img alt="" align="left" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QubitMatrix&theme=radical" />
 
-![github-wrapped (1)](https://user-images.githubusercontent.com/60323193/210263100-9ce90a0d-2aef-4810-a2e5-c95f99ac17f8.png)
 
 
 <!--
