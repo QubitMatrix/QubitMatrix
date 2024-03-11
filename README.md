@@ -21,6 +21,8 @@ Check out my portfolio website https://qubitmatrix.github.io/portfolio to read a
 <img src="https://img.icons8.com/color/48/000000/nodejs.png">
 <img src="https://img.icons8.com/color/48/000000/react-native.png">
 <img src="https://img.icons8.com/color/48/null/mysql.png">
+<img src="https://img.icons8.com/color/48/null/arduino.png">
+<img src="https://img.icons8.com/color/48/null/bash.png">
 ### Some statistics 📊 
 <p><img alt="" width="600px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QubitMatrix&theme=radical" />
 <img width="330px" height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=QubitMatrix&theme=radical" alt="" />   
